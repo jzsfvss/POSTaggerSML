@@ -5,7 +5,7 @@ Version date	January 29, 2018
 
 INSTALLATION
 
-1. Download and unzip POSTaggerSML package to any directory and set the MATLAB path to it.
+1. Download and unzip the POSTaggerSML package to any directory and set the MATLAB path to it.
 2. Download the Stanford Log-linear Part-Of-Speech Tagger (English version 3.4.1 or earlier) from:
 https://nlp.stanford.edu/software/tagger.shtml#History
 
