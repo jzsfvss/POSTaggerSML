@@ -1,7 +1,7 @@
-%__________________________________________________________________________________________
+﻿%__________________________________________________________________________________________
 % Package name		Stanford-MATLAB Part-of-Speech Tagger
-% Language			MATLAB, Java
-% Author			József Vass <jozsef.vass@outlook.com>
+% Language		MATLAB, Java
+% Author		József Vass <jozsef.vass@outlook.com>
 % Version date		January 29, 2018
 %‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 % Set paths:
