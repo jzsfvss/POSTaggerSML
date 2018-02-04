@@ -1,4 +1,4 @@
-function res = DispSentences(sensc, pos, dtgs)
+function res = DispText(sensc, pos, dtgs)
 
 nsens = size(sensc, 1);
 
